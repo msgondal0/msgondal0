@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @msgondal0
+- 👋 Hi, I’m Muhammad Saqlain
 - 👀 I’m interested in Decision-making and optimization problems.
 - 🌱 I’m currently a Ph.D. Applied Mathematics student.
 - 💞️ I’m looking to collaborate on computational Mathematics and decision-making.
