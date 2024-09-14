@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @msgondal0
-- 👀 I’m interested in Mathematics and Chess.
-- 🌱 I’m currently a Mathematics Professor.
-- 💞️ I’m looking to collaborate on computational Mathematics and Chess.
-- 📫 Contact me @ msgondal0@gmail.com
+- 👀 I’m interested in Decision-making and optimization problems.
+- 🌱 I’m currently a Ph.D. Applied Mathematics student.
+- 💞️ I’m looking to collaborate on computational Mathematics and decision-making.
+- 📫 Contact me msgondal0@gmail.com
 
 <!---
 msgondal0/msgondal0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
